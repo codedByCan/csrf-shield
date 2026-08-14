@@ -1,6 +1,6 @@
 {
   "name": "csrf-shield",
-  "version": "1.0.1",
+  "version": "1.0.5",
   "description": "CSRF protection middleware for Express.js applications.",
   "main": "app.js",
   "scripts": {
